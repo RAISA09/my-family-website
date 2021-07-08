@@ -1,0 +1,101 @@
+.h1{
+    color: green;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 60px;
+}
+.fexible{
+    display: flex;
+    margin-left: 10px;
+}
+.haif{
+    width: 50%;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.haif img{
+     width: 80%;
+     margin-left: 10px;
+     margin-top: 20px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    border-radius: 10px;
+    padding: 10px 20px;
+    font-weight: 700;
+}
+.biriani{
+    margin-top: 100px;
+}
+.kacci{
+    width: 50%;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.kacci img{
+    width: 90%;
+    margin-top: 60px;
+}
+.imo{
+    margin-top: 30px;
+}
+.ban{
+    margin-top: 70px;
+}
+.save{
+    text-align: center;
+}
+.dadi{
+    margin-left: 30%;
+}
+.dada{
+    margin-left: 40%;
+    margin-right: 10%;
+}
+
+.nani{
+    color: olivedrab;
+}
+.ma{
+    color: gray;
+}
+.baba{
+    margin-top: 100px;
+    margin-left: 20px;
+}
+.love{
+    width: 25%;
+    margin-left: 4%;
+    margin-right:4%;
+    box-shadow: 10px 10px 40px gray;
+    padding-left: 20px;
+    border-radius: 20px;
+    border: 10px solid gainsboro;
+}
+.love img{
+    width: 80%;
+    margin-right: 50px;
+    margin-left: 10px;
+    margin-top: 10px;
+    border-radius: 10px;}
+.habi{
+    margin-top: 80px;
+}
+.marvel{
+    text-align: center;
+}
+footer h1{
+    color: lawngreen;
+    text-align: center;
+}
+footer p{
+    text-align: center;
+}
+
+.orang{
+    background-image: url(bangladesh food website photo/);
+}
